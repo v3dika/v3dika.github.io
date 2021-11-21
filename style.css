@@ -3,7 +3,6 @@ body {
     --font-family: 'Inconsolata', monospace;
     --font-size: 1rem;
     --line-height:1.2;
-    --font-weight:400;
 }
 
 h1 {
@@ -12,7 +11,6 @@ h1 {
     --line-height:1;
     --colour:black;
     --letter-spacing:-0.1rem
-    --font-weight:weight:400;
 }
 
 li {
