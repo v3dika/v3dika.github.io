@@ -2,17 +2,23 @@ body,html {
     font-family: 'PT Mono', monospace;
     color:#fff;
     background:rgb(0, 0, 0);
-    margin-left: auto;
-    margin-right: auto;
-    position:absolute;
+    position: absolute;
+    width:500px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
 }
 
 #title {
     font-size:16px;
-    text-align:center;
 }
+
 #links a{
-    font-size:14px;
-    margin:40px 0px;
     color:#fff;
+    font-size:12px;
+}
+
+#links a:hover{
+    color:#46aa8a;
 }
