@@ -2,8 +2,8 @@ body,html {
     font-family: 'PT Mono', monospace;
     color:#fff;
     background:rgb(0, 0, 0);
-    width:80%;
-    padding:30% 10%;
+    margin-left: auto;
+    margin-right: auto;
     position:absolute;
 }
 
